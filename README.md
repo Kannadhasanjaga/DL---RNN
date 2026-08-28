@@ -45,9 +45,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: AHAMED JASEER SHA E
+### Name: KANNADHASAN J
 
-### Register Number: 212224040015
+### Register Number: 212224240071
 
 ```python
 import numpy as np
